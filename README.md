@@ -1,1 +1,1 @@
-This app will be a live Q&A system, probabl
+This app will be a live Q&A system, probably
